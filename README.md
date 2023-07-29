@@ -1,2 +1,1 @@
-# DummyRepoA
-For testing git 
+Dummy second repo for B
