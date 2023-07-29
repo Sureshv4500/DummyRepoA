@@ -1,0 +1,2 @@
+# DummyRepoA
+For testing git 
